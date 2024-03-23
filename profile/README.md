@@ -1,5 +1,4 @@
 # LlmonPy
-*pronounced lemon pie*
 
 LlmonPy is an open-source LLM pipeline framework where:
 > 1. Every step has an evaluator to determine if the step was completed successfully. 
