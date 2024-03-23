@@ -1,12 +1,8 @@
-## Hi there 👋
+# LlmonPy
+*pronounced lemon pie*
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+LlmonPy is an open-source LLM pipeline framework where:
+> 1. Every step has an evaluator to determine if the step was completed successfully. 
+> 2. The input and output of each step is recorded so a step can be isolated and refined without running the whole pipeline
+> 3. Python is used for orchestration
+> 4. It is not ready to release yet.  But it will be soon! Follow this organization if want updates.  
