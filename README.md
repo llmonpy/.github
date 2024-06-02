@@ -1,4 +1,4 @@
-# LlmonPy
+# LLMonPy
 
 > *We started with glee, so deceived,  
 > Assuming the task was easily achieved.  
